@@ -1,0 +1,83 @@
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+.link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    cursor: pointer;
+    color: #17233D;
+    letter-spacing: 0.88px;
+    text-align: center;
+    margin-right: 32px;
+
+}
+
+.logar {
+    width: 124px;
+    height: 51px;
+    border-radius: 6px;
+    background: #6FBF44;
+    border: 1px solid #4cb538;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-align: center;
+
+}
+section{
+    display: inline-block;
+    margin-left: 85px;
+    width: 493px;
+}
+
+.logo-img {
+   margin: 163px 0 0 123px;
+    display: inline-block;
+
+
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+    letter-spacing: 0.596154px;
+}
+
+p {
+    color: #4B505A;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    width: 493px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+
+}
+
+.saber-mais{
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 1px;
+color: #6FBF44;
+cursor: pointer;
+background: transparent;
+border: none;
+
+}
