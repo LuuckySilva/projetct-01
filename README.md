@@ -48,5 +48,5 @@ Durante o desenvolvimento, pratiquei:
 
 Quer entrar em contato comigo?
 
-- [LinkedIn](https:/www.linkedin.com/in/lucky-silva) 
-- [E-mail](mailto:lukasantonyo@gmail.com)
+- [LinkedIn](www.linkedin.com/in/lucky-silva) 
+- [E-mail](lukasantonyo@gmail.com)
